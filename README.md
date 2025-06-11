@@ -47,7 +47,7 @@ Me interesa fusionar código limpio con narrativa oscura, para que el diseño de
 
 ## 📫 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leandrobaier)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leandro-baier-a09aaa188)
 - 🧠 [GitHub](https://github.com/LeanBaier)
 
 ---
