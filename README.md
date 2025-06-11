@@ -36,8 +36,6 @@ Algunas ideas que exploro:
 
 > *"Cada partida es un susurro arrancado al vacío. No controlás a un héroe, sino a lo que queda de él."*
 
-Me interesa fusionar código limpio con narrativa oscura, para que el diseño de sistemas y la experiencia del jugador hablen el mismo lenguaje.
-
 ---
 
 ### 🧰 Tecnologías que uso regularmente
@@ -68,11 +66,12 @@ Me interesa fusionar código limpio con narrativa oscura, para que el diseño de
 
 ---
 
+> *"Hay quienes diseñan para resolver. Yo diseño para invocar. Mis dominios no se apagan: vigilan. Mis sistemas no se detienen: esperan. Y si un jugador cae, si un servicio colapsa, no es por error… es porque así fue escrito."*
+
 ## 📌 Proyectos (próximamente)
 
 - 🎴 **Final Fragment** — Roguelike táctico de cartas, con arquitectura limpia y progresión narrativa
 
-> *"Hay quienes diseñan para resolver. Yo diseño para invocar. Mis dominios no se apagan: vigilan. Mis sistemas no se detienen: esperan. Y si un jugador cae, si un servicio colapsa, no es por error… es porque así fue escrito."*
 ---
 
 ## 📫 Conectemos
