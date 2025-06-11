@@ -40,6 +40,34 @@ Me interesa fusionar código limpio con narrativa oscura, para que el diseño de
 
 ---
 
+### 🧰 Tecnologías que uso regularmente
+
+- **Lenguajes**: Java, C#, SQL, GDScript
+- **Frameworks**: Spring Boot, .NET 8, Godot 4.4
+- **Arquitecturas**: DDD, Hexagonal, MVC, Microservicios
+- **Bases de datos**: Oracle, PostgreSQL
+- **Dev Tools**: IntelliJ, Rider, Git, GitHub, GitLab, Docker, OpenShift, CI/CD
+
+---
+
+### 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-E00?style=flat&logo=redhatopenshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+---
+
 ## 📌 Proyectos (próximamente)
 
 - 🎴 **Final Fragment** — Roguelike táctico de cartas, con arquitectura limpia y progresión narrativa
