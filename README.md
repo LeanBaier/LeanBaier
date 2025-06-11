@@ -71,6 +71,8 @@ Me interesa fusionar código limpio con narrativa oscura, para que el diseño de
 ## 📌 Proyectos (próximamente)
 
 - 🎴 **Final Fragment** — Roguelike táctico de cartas, con arquitectura limpia y progresión narrativa
+
+> *"Hay quienes diseñan para resolver. Yo diseño para invocar. Mis dominios no se apagan: vigilan. Mis sistemas no se detienen: esperan. Y si un jugador cae, si un servicio colapsa, no es por error… es porque así fue escrito."*
 ---
 
 ## 📫 Conectemos
@@ -80,4 +82,4 @@ Me interesa fusionar código limpio con narrativa oscura, para que el diseño de
 
 ---
 
-> *"Diseño dominios que tienen sentido — ya sea para usuarios o para monstruos."*
+> *"Algunos escriben software como quien construye muros. Yo lo escribo como quien excava tumbas: con cuidado, con respeto, y con la certeza de que algo antiguo espera del otro lado."*
